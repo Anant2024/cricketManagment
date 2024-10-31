@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node Backend/src/server.js" // Ensure the path is correct
+    "start": "node Backend/src/server.js"
   },
   "author": "Anant",
   "license": "ISC",
